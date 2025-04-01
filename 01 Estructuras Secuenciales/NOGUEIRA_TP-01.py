@@ -1,7 +1,7 @@
 #1
 print("Hola Mundo!")
 
-#2
+#2 
 nombre = input("Por favor ingresa tu nombre: ")
 print(f"Hola {nombre}")
 
