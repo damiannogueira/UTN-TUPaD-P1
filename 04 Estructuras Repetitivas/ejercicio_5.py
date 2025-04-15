@@ -1,9 +1,8 @@
 # EJERCICIO 5
-import random # Debo importar la librería Random
-
-# Genero un número aleatorio entre 0 y 9:
+# Debo importar la librería Random
 import random
 
+# Genero un número aleatorio entre 0 y 9:
 numero_aleatorio = random.randint(0, 9)
 intentos = 0
 elegido = -1  # Lo inicializo así para que empiece distinto a los del rango
